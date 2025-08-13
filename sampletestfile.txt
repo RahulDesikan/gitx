@@ -1,2 +1,6 @@
 this is sample file
+<<<<<<< Updated upstream
 this is the stash lecture,changing file 23343545
+=======
+this is the stash lecture,changing file 2
+>>>>>>> Stashed changes

@@ -1,3 +1,4 @@
 this is second sample file
 
 local mCHINiE
+this is the stash lecture,changing file 2
